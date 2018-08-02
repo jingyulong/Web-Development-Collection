@@ -20,6 +20,13 @@ SimpleUndoRecents|恢复最近关闭的标签。
 [Supercharger](http://www.supercharger.tools/)|一直在用这个插件的原因就是它的**CodeMAP**,VS最好的导航工具（其他功能还没探索过）
 
 
+### 软件：
+
+名称|描述
+---|---
+[Web Platform Installer](https://www.microsoft.com/web/downloads/platform.aspx)|为常见的开源Web应用和Web平台技术提供安装工作流
+[ILSpy](https://github.com/icsharpcode/ILSpy)|ILSpy 是一个开源的.Net 程序集浏览工具和反编译工具
+
 
 
 
