@@ -26,6 +26,7 @@ SimpleUndoRecents|恢复最近关闭的标签。
 ---|---
 [Web Platform Installer](https://www.microsoft.com/web/downloads/platform.aspx)|为常见的开源Web应用和Web平台技术提供安装工作流
 [ILSpy](https://github.com/icsharpcode/ILSpy)|ILSpy 是一个开源的.Net 程序集浏览工具和反编译工具
+[Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller)|这个工具能够彻底的移除VS，并且能够清除卸载的残余垃圾（正常的卸载程序卸载的不是那么干净）。
 
 
 
