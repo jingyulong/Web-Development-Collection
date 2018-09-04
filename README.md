@@ -1,5 +1,5 @@
 ## 网站开发的收集
-本人开发过程中觉得不错的东西我会记下来，也希望能分享给大家。
+本人开发过程中觉得不错的东西我会记下来，也希望能分享给大家。我会尽量选择开源的东西。
 
 ### 谷歌浏览器插件：
 
@@ -27,6 +27,12 @@ SimpleUndoRecents|恢复最近关闭的标签。
 [Web Platform Installer](https://www.microsoft.com/web/downloads/platform.aspx)|为常见的开源Web应用和Web平台技术提供安装工作流
 [ILSpy](https://github.com/icsharpcode/ILSpy)|ILSpy 是一个开源的.Net 程序集浏览工具和反编译工具
 [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller)|这个工具能够彻底的删除VS 2013与VS2015 的 Preview, RC和final releases版本，还有VS 2017早期的 Preview版本(VS 2017 final releases版本不会删除)。
+
+### Jquery Plugin
+名称|描述
+---|---
+[bxslider](https://github.com/stevenwanderski/bxslider-4)|轻量级的Slider插件
+
 
 
 
