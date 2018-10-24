@@ -28,8 +28,9 @@ SimpleUndoRecents|恢复最近关闭的标签。
 [ILSpy](https://github.com/icsharpcode/ILSpy)|ILSpy 是一个开源的.Net 程序集浏览工具和反编译工具
 [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller)|这个工具能够彻底的删除VS 2013与VS2015 的 Preview, RC和final releases版本，还有VS 2017早期的 Preview版本(VS 2017 final releases版本不会删除)。
 [proxyee-down](https://github.com/proxyee-down-org/proxyee-down)|http下载工具，基于http代理，支持多连接分块下载,专门对付百度网盘限速，畅快下载。
+[Typora](https://typora.io)|Mac OS 中非常优雅的一款MarkDown编辑器，即时预览，让你专注于你的内容
 
-### Jquery Plugin
+### Jquery Plugin：
 名称|描述
 ---|---
 [bxslider](https://github.com/stevenwanderski/bxslider-4)|轻量级的Slider插件
