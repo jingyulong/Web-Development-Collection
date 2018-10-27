@@ -10,6 +10,7 @@ IE Tab|在Chrome中使用IE内核浏览网页。
 OneTab|整合当前窗口标签到一个列表里，节省Chrome内存资源。
 Image Downloader|可以下载当前页面的图片，特别适合设计使用。
 SimpleUndoRecents|恢复最近关闭的标签。
+BuiltWith Technology Profiler|一个网站分析工具，它可以找出你访问的站点使用的建站技术。
 
 ### VS插件：
 
@@ -53,7 +54,9 @@ SimpleUndoRecents|恢复最近关闭的标签。
 [segmentfault](https://segmentfault.com/)|一个年轻的开发者社区，里面有最前沿的技术问答和最纯粹的技术切磋。
 [V2EX](https://www.v2ex.com/)|创意工作者们的社区。汇聚了主要来自互联网行业、游戏行业和媒体行业的创意工作者。
 
-
+### License
+---
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
 
 
 
