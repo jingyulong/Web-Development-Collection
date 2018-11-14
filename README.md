@@ -41,6 +41,7 @@
     - [proxyee-down](https://github.com/proxyee-down-org/proxyee-down) -http下载工具，基于http代理，支持多连接分块下载,专门对付百度网盘限速，畅快下载。
     - [Typora](https://typora.io) -Mac OS 中非常优雅的一款MarkDown编辑器，即时预览，让你专注于你的内容
     - [MarkdownPad](http://markdownpad.com/) -由于Typora在Windows上还是Beta版本，目前MarkdownPad比较好用点，好处是可以选择MarkDown语言的处理引擎
+    - [Snipaste](https://www.snipaste.com/) -截图软件，操作简单，贴图可以桌面置顶。
 
 - Mac
 	- [Tmux](https://github.com/tmux/tmux)  -是一个可以在终端窗口中运行多个终端会话的工具。
