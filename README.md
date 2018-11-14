@@ -28,7 +28,6 @@
 - VS插件
 	- [ReSharper](https://www.jetbrains.com/resharper/) -实时分析代码质量、改善代码风格、代码重构，非常强大。
 	- [Son of Obsidian](https://studiostyl.es/schemes/son-of-obsidian) -这是VS主题，我非常喜欢的配色。
-	- [Supercharger](http://www.supercharger.tools/) -一直在用这个插件的原因就是它的**CodeMAP**,VS最好的导航工具（其他功能还没探索过）
 - Jquery插件
 	- [bxslider](https://github.com/stevenwanderski/bxslider-4) -轻量级的Slider插件
 
@@ -42,6 +41,7 @@
     - [Typora](https://typora.io) -Mac OS 中非常优雅的一款MarkDown编辑器，即时预览，让你专注于你的内容
     - [MarkdownPad](http://markdownpad.com/) -由于Typora在Windows上还是Beta版本，目前MarkdownPad比较好用点，好处是可以选择MarkDown语言的处理引擎
     - [Snipaste](https://www.snipaste.com/) -截图软件，操作简单，贴图可以桌面置顶。
+    - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) -这个软件可以记录你在屏幕上选择的一块区域，保存成Gif或者视频。用来做教程不错。
 
 - Mac
 	- [Tmux](https://github.com/tmux/tmux)  -是一个可以在终端窗口中运行多个终端会话的工具。
