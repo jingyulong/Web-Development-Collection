@@ -71,6 +71,8 @@
 
     - [Percona Tools for MySQL](https://tools.percona.com/wizard) -用来生成MySql的配置向导。应用Percona的最佳实践向导来生成配置，使MySql的性能更好。避免自定义```my.cnf```带来的风险，时间，还有复杂性。
     - [在线正则测试工具](https://regex101.com/) -在线正则表达式测试工具，调试时可以高亮显示PHP, PCRE, Python, Golang and JavaScript。还可以分享正则测试结果。
+- 书籍
+	- [it-ebooks](http://it-ebooks.info/),[allitebooks](http://www.allitebooks.com/) -很多IT类的电子书资源。
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
