@@ -26,10 +26,11 @@
   - **SimpleUndoRecents** -恢复最近关闭的标签。
   - **BuiltWith Technology Profiler** -一个网站分析工具，它可以找出你访问的站点使用的建站技术。
 - VS插件
-	- [ReSharper](https://www.jetbrains.com/resharper/) -实时分析代码质量、改善代码风格、代码重构，非常强大。
-	- [Son of Obsidian](https://studiostyl.es/schemes/son-of-obsidian) -这是VS主题，我非常喜欢的配色。
+  - [ReSharper](https://www.jetbrains.com/resharper/) -实时分析代码质量、改善代码风格、代码重构，非常强大。
+  - [Son of Obsidian](https://studiostyl.es/schemes/son-of-obsidian) -这是VS主题，我非常喜欢的配色。
 - Jquery插件
-	- [bxslider](https://github.com/stevenwanderski/bxslider-4) -轻量级的Slider插件
+
+  - [swiper](https://github.com/nolimits4web/swiper)-Most modern mobile touch slider with hardware accelerated transitions 
 
 ## 软件：
 
@@ -53,26 +54,25 @@
 - License
     - [知识共享许可协议](https://creativecommons.org) -当你做一些创意工作时(文章创作，音乐创作，摄影等，包括编程)，[选择知识共享许可协议](https://creativecommons.org/choose/)。
     - [开源许可协议](https://opensource.org/licenses) -**Open Source Initiative**组织[认可的开源协议](https://opensource.org/licenses/alphabetical)。开源许可证是一种法律许可。通过它，版权拥有人明确允许，用户可以免费地使用、修改、共享版权软件。如果你不知道使用哪个，请点击[选择开源许可协议](https://choosealicense.com/)。
-
 - 社区    
     - [stackoverflow](https://stackoverflow.com) -我发现里面的Tag Info页面整合了许多该技术的资源。比如 [**.Net**](https://stackoverflow.com/tags/.net/info)的,大家可以自由探索。
     - [segmentfault](https://segmentfault.com/) -一个年轻的开发者社区，里面有最前沿的技术问答和最纯粹的技术切磋。
     - [V2EX](https://www.v2ex.com/) -创意工作者们的社区。汇聚了主要来自互联网行业、游戏行业和媒体行业的创意工作者。
-
 - 平台
-  - [程序员客栈](https://www.proginn.com/) -中高端程序员自由工作平台。主要提供软件开发服务。
   - [LeetCode](https://leetcode.com/) -练习、提升编程水平。准备工作面试，都可以看看。中文官网[领扣](https://leetcode-cn.com/)
-
 - 博客
   - [WEB前端开发](http://www.css88.com/) -各种前端资源资讯
   - [phodal](https://www.phodal.com/) -有一些启发性的文章，初学者可以多学习下。
-
 - 工具
-
     - [Percona Tools for MySQL](https://tools.percona.com/wizard) -用来生成MySql的配置向导。应用Percona的最佳实践向导来生成配置，使MySql的性能更好。避免自定义```my.cnf```带来的风险，时间，还有复杂性。
     - [在线正则测试工具](https://regex101.com/) -在线正则表达式测试工具，调试时可以高亮显示PHP, PCRE, Python, Golang and JavaScript。还可以分享正则测试结果。
 - 书籍
-	- [it-ebooks](http://it-ebooks.info/),[allitebooks](http://www.allitebooks.com/) -很多IT类的电子书资源。
+  - [it-ebooks](http://it-ebooks.info/),[allitebooks](http://www.allitebooks.com/) -很多IT类的电子书资源。
+- 程序员兼职
+    - [Upwork](https://www.upwork.com/)-全球最专业平台：程序丨设计丨文案
+    - [Freelancer](https://www.freelancer.com/)-全球最大平台：程序丨设计
+    - [码市](https://codemart.com/) -基于云技术的软件外包服务平台
+    - [程序员客栈](https://www.proginn.com)-程序员的经纪人，中高端程序员自由工作平台。主要提供软件开发服务。
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
