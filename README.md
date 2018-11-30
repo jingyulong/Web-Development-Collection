@@ -4,13 +4,15 @@
 	<p>
 		<h1>开发收藏</h2>
 	</p>
-<p>本人开发过程中觉得不错的东西我会记下来，也希望能分享给大家。我会尽量选择开源的东西。</p>
+<p>这些都是本人作为Web开发者，在平时工作或者生活中发现的，觉得不错的东西，分享给大家。不求多而全，只求少而精。不定期更新好用的软件，清理旧软件。本人酷爱开源，所以开源的东西会多一点。</p>
 </div>
+
 
 ## 目录
 - [插件](#插件)
 - [软件](#软件)
 - [网站](#网站)
+- [书籍](#书籍)
 
 
 
@@ -45,7 +47,7 @@
     - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) -这个软件可以记录你在屏幕上选择的一块区域，保存成Gif或者视频。用来做教程不错。
 
 - Mac
-	- [Tmux](https://github.com/tmux/tmux)  -是一个可以在终端窗口中运行多个终端会话的工具。
+  - [Tmux](https://github.com/tmux/tmux)  -是一个可以在终端窗口中运行多个终端会话的工具。
 
 
 
@@ -73,8 +75,15 @@
     - [Freelancer](https://www.freelancer.com/)-全球最大平台：程序丨设计
     - [码市](https://codemart.com/) -基于云技术的软件外包服务平台
     - [程序员客栈](https://www.proginn.com)-程序员的经纪人，中高端程序员自由工作平台。主要提供软件开发服务。
+## 书籍
+- 编程开发
+    - [《Producing Open Source Software》-Karl Fogel](https://producingoss.com/) -如何运作一个成功的开源项目，有中文版的，可以在线看或者下载到电子书里看。
+    - [《只是为了好玩》-Linus Torvalds/David Diamond](https://book.douban.com/subject/25930025/) -Linux之父林纳斯自传,可以了解开源的思想，Linux的起源，作为Linux入门书籍非常适合。
+- 自我管理
+  - [《原则》-Ray Dalio](https://book.douban.com/subject/27608239/) -对冲基金公司桥水创始人Ray Dalio，阐述了他生活和工作中的基本原则。影响我人生的第二本书，这本书已经作为我现在的信仰。对了，第一本是戴尔卡耐基的《人性的弱点》。
 
 ## License
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
 
 
