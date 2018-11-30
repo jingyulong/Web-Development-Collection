@@ -68,6 +68,7 @@
 - 工具
     - [Percona Tools for MySQL](https://tools.percona.com/wizard) -用来生成MySql的配置向导。应用Percona的最佳实践向导来生成配置，使MySql的性能更好。避免自定义```my.cnf```带来的风险，时间，还有复杂性。
     - [在线正则测试工具](https://regex101.com/) -在线正则表达式测试工具，调试时可以高亮显示PHP, PCRE, Python, Golang and JavaScript。还可以分享正则测试结果。
+    - [Tabula](https://github.com/chezou/tabula-py)-Tabula is a tool,which can read tables from PDF and convert into pandas's DataFrame.Also enables you to convert a PDF file into CSV/TSV/JSON file.
 - 书籍
   - [it-ebooks](http://it-ebooks.info/),[allitebooks](http://www.allitebooks.com/) -很多IT类的电子书资源。
 - 程序员兼职
@@ -81,6 +82,13 @@
     - [《只是为了好玩》-Linus Torvalds/David Diamond](https://book.douban.com/subject/25930025/) -Linux之父林纳斯自传,可以了解开源的思想，Linux的起源，作为Linux入门书籍非常适合。
 - 自我管理
   - [《原则》-Ray Dalio](https://book.douban.com/subject/27608239/) -对冲基金公司桥水创始人Ray Dalio，阐述了他生活和工作中的基本原则。影响我人生的第二本书，这本书已经作为我现在的信仰。对了，第一本是戴尔卡耐基的《人性的弱点》。
+
+## 技术栈
+|技术|掌握程度|
+|---|---|
+|jQuery|:star::star::star::star:|
+|CSharp|:star::star::star::star:|
+|[Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)|:star::star::star::star:|
 
 ## License
 
