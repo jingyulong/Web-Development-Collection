@@ -83,12 +83,20 @@
 - 自我管理
   - [《原则》-Ray Dalio](https://book.douban.com/subject/27608239/) -对冲基金公司桥水创始人Ray Dalio，阐述了他生活和工作中的基本原则。影响我人生的第二本书，这本书已经作为我现在的信仰。对了，第一本是戴尔卡耐基的《人性的弱点》。
 
-## 技术栈
-|技术|掌握程度|
+## Technology Stack
+|Language&Framework&Data|掌握程度|
 |---|---|
+|HTML5|:star::star::star:|
 |jQuery|:star::star::star::star:|
+|Bootstrap|:star::star::star::star::star:|
 |CSharp|:star::star::star::star:|
 |[Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)|:star::star::star::star:|
+
+|Development Tools|掌握程度|
+|---|---|
+|Github|:star::star::star::star:|
+|Git|:star::star:|
+|Visual Studio|:star::star::star::star::star:|
 
 ## License
 
