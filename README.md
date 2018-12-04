@@ -45,11 +45,13 @@
     - [MarkdownPad](http://markdownpad.com/) -由于Typora在Windows上还是Beta版本，目前MarkdownPad比较好用点，好处是可以选择MarkDown语言的处理引擎
     - [Snipaste](https://www.snipaste.com/) -截图软件，操作简单，贴图可以桌面置顶。
     - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) -这个软件可以记录你在屏幕上选择的一块区域，保存成Gif或者视频。用来做教程不错。
+    - [Tabula](https://github.com/chezou/tabula-py)-Tabula is a tool,which can read tables from PDF and convert into pandas's DataFrame.Also enables you to convert a PDF file into CSV/TSV/JSON file.
 
 - Mac
   - [Tmux](https://github.com/tmux/tmux)  -是一个可以在终端窗口中运行多个终端会话的工具。
 
-
+- Cross-Platform
+  - [Imagine](https://github.com/meowtec/Imagine) -Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.
 
 
 ## 网站：
@@ -68,7 +70,6 @@
 - 工具
     - [Percona Tools for MySQL](https://tools.percona.com/wizard) -用来生成MySql的配置向导。应用Percona的最佳实践向导来生成配置，使MySql的性能更好。避免自定义```my.cnf```带来的风险，时间，还有复杂性。
     - [在线正则测试工具](https://regex101.com/) -在线正则表达式测试工具，调试时可以高亮显示PHP, PCRE, Python, Golang and JavaScript。还可以分享正则测试结果。
-    - [Tabula](https://github.com/chezou/tabula-py)-Tabula is a tool,which can read tables from PDF and convert into pandas's DataFrame.Also enables you to convert a PDF file into CSV/TSV/JSON file.
 - 书籍
   - [it-ebooks](http://it-ebooks.info/),[allitebooks](http://www.allitebooks.com/) -很多IT类的电子书资源。
 - 程序员兼职
