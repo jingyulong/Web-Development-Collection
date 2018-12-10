@@ -67,6 +67,10 @@
 - 博客
   - [WEB前端开发](http://www.css88.com/) -各种前端资源资讯
   - [phodal](https://www.phodal.com/) -有一些启发性的文章，初学者可以多学习下。
+  - 文章配图(use for free,no copyright issues)
+    - [Pexels](https://www.pexels.com/) -The best free stock photos shared by talented photographers.
+    - [Unsplash](https://unsplash.com/) -Beautiful, free photos.Gifted by the world’s most generous community of photographers. 🎁
+    - [Pixabay](https://pixabay.com/) -惊人的免费图片。发现我们慷慨的社区分享的 1.6 百万张图片和视频。(Under licence creative commons cc0)
 - 工具
     - [Percona Tools for MySQL](https://tools.percona.com/wizard) -用来生成MySql的配置向导。应用Percona的最佳实践向导来生成配置，使MySql的性能更好。避免自定义```my.cnf```带来的风险，时间，还有复杂性。
     - [在线正则测试工具](https://regex101.com/) -在线正则表达式测试工具，调试时可以高亮显示PHP, PCRE, Python, Golang and JavaScript。还可以分享正则测试结果。
