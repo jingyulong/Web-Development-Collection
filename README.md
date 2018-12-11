@@ -49,6 +49,7 @@
 
 - Mac
   - [Tmux](https://github.com/tmux/tmux)  -是一个可以在终端窗口中运行多个终端会话的工具。
+  - [The Unarchiver](https://theunarchiver.com/) -The Unarchiver is a small and easy to use program that can unarchive many different kinds of archive files.
 
 - Cross-Platform
   - [Imagine](https://github.com/meowtec/Imagine) -Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.
