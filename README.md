@@ -51,6 +51,7 @@
   - [Tmux](https://github.com/tmux/tmux)  -是一个可以在终端窗口中运行多个终端会话的工具。
   - [The Unarchiver](https://theunarchiver.com/) -The Unarchiver is a small and easy to use program that can unarchive many different kinds of archive files.
   - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) -Know your short cuts.Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application. It's as simple as that.
+  - [MacVim](https://github.com/macvim-dev/macvim) -The text editor-vim GUI version,for Mac OS X.
 
 - Cross-Platform
   - [Imagine](https://github.com/meowtec/Imagine) -Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.
