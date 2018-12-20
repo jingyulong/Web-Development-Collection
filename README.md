@@ -66,6 +66,7 @@
     - [segmentfault](https://segmentfault.com/) -一个年轻的开发者社区，里面有最前沿的技术问答和最纯粹的技术切磋。
     - [V2EX](https://www.v2ex.com/) -创意工作者们的社区。汇聚了主要来自互联网行业、游戏行业和媒体行业的创意工作者。
 - 平台
+
   - [LeetCode](https://leetcode.com/) -练习、提升编程水平。准备工作面试，都可以看看。中文官网[领扣](https://leetcode-cn.com/)
 - 博客
   - [WEB前端开发](http://www.css88.com/) -各种前端资源资讯
@@ -79,6 +80,7 @@
     - [在线正则测试工具](https://regex101.com/) -在线正则表达式测试工具，调试时可以高亮显示PHP, PCRE, Python, Golang and JavaScript。还可以分享正则测试结果。
     - [PingPe](http://ping.pe/) -The Best *Ping*+MTR combination Ever.Ping and mtr from multiple locations.
 - 书籍
+
   - [it-ebooks](http://it-ebooks.info/),[allitebooks](http://www.allitebooks.com/) -很多IT类的电子书资源。
 - 程序员兼职
     - [Upwork](https://www.upwork.com/)-全球最专业平台：程序丨设计丨文案
@@ -87,6 +89,9 @@
     - [程序员客栈](https://www.proginn.com)-程序员的经纪人，中高端程序员自由工作平台。主要提供软件开发服务。
 - Web Docs
     - [MDN Web Docs](https://developer.mozilla.org/) -The **MDN** Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.
+
+    - [Microsoft Docs](https://docs.microsoft.com/en-us/) -Microsoft Docs  site provides many documentation for end users, developers, and IT professionals. You can check out their quickstarts, tutorials, API reference, and code examples.
+
     - [Chrome-Devtools](https://developers.google.com/web/tools/chrome-devtools/) -Chrome DevTools is a set of web developer tools built directly into the [Google Chrome](https://www.google.com/chrome/) browser. DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster.
 ## 书籍
 - 编程开发
