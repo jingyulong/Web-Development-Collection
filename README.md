@@ -89,10 +89,9 @@
     - [程序员客栈](https://www.proginn.com)-程序员的经纪人，中高端程序员自由工作平台。主要提供软件开发服务。
 - Web Docs
     - [MDN Web Docs](https://developer.mozilla.org/) -The **MDN** Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.
-
     - [Microsoft Docs](https://docs.microsoft.com/en-us/) -Microsoft Docs  site provides many documentation for end users, developers, and IT professionals. You can check out their quickstarts, tutorials, API reference, and code examples.
-
     - [Chrome-Devtools](https://developers.google.com/web/tools/chrome-devtools/) -Chrome DevTools is a set of web developer tools built directly into the [Google Chrome](https://www.google.com/chrome/) browser. DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster.
+    - [Ecma International](https://www.ecma-international.org/) -Ecma International is an industry association founded in 1961, dedicated to the standardization of information and communication systems.
 ## 书籍
 - 编程开发
     - [《Producing Open Source Software》-Karl Fogel](https://producingoss.com/) -如何运作一个成功的开源项目，有中文版的，可以在线看或者下载到电子书里看。
