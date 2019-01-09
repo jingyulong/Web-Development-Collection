@@ -27,9 +27,10 @@
   - **Image Downloader** -可以下载当前页面的图片，特别适合设计使用。
   - **SimpleUndoRecents** -恢复最近关闭的标签。
   - **BuiltWith Technology Profiler** -一个网站分析工具，它可以找出你访问的站点使用的建站技术。
-- VS插件
+- VS Plugin Or Extension
   - [ReSharper](https://www.jetbrains.com/resharper/) -实时分析代码质量、改善代码风格、代码重构，非常强大。
   - [Son of Obsidian](https://studiostyl.es/schemes/son-of-obsidian) -这是VS主题，我非常喜欢的配色。
+  - [FileIcons](https://github.com/madskristensen/FileIcons) -This extensions adds file icons to Solution Explorer for files that Visual Studio doesn't provide icons for.
 - Jquery插件
 
   - [swiper](https://github.com/nolimits4web/swiper)-Most modern mobile touch slider with hardware accelerated transitions 
