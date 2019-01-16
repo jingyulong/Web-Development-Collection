@@ -31,9 +31,10 @@
   - [ReSharper](https://www.jetbrains.com/resharper/) -实时分析代码质量、改善代码风格、代码重构，非常强大。
   - [Son of Obsidian](https://studiostyl.es/schemes/son-of-obsidian) -这是VS主题，我非常喜欢的配色。
   - [FileIcons](https://github.com/madskristensen/FileIcons) -This extensions adds file icons to Solution Explorer for files that Visual Studio doesn't provide icons for.
-- Jquery插件
+- Javascript Libraries 
 
   - [swiper](https://github.com/nolimits4web/swiper)-Most modern mobile touch slider with hardware accelerated transitions 
+  - [flatpickr](https://github.com/flatpickr/flatpickr) -flatpickr is a javascript datetime picker.it has good-looking out of the box, dependency-free, powerful, and extensible.
 
 ## 软件：
 
