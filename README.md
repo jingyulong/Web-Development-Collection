@@ -48,6 +48,7 @@
     - [Snipaste](https://www.snipaste.com/) -截图软件，操作简单，贴图可以桌面置顶。
     - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) -这个软件可以记录你在屏幕上选择的一块区域，保存成Gif或者视频。用来做教程不错。
     - [Tabula](https://github.com/chezou/tabula-py)-Tabula is a tool,which can read tables from PDF and convert into pandas's DataFrame.Also enables you to convert a PDF file into CSV/TSV/JSON file.
+    - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) -VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux.
 
 - Mac
   - [Tmux](https://github.com/tmux/tmux)  -是一个可以在终端窗口中运行多个终端会话的工具。
