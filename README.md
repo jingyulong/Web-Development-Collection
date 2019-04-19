@@ -49,7 +49,8 @@
     - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) -这个软件可以记录你在屏幕上选择的一块区域，保存成Gif或者视频。用来做教程不错。
     - [Tabula](https://github.com/chezou/tabula-py)-Tabula is a tool,which can read tables from PDF and convert into pandas's DataFrame.Also enables you to convert a PDF file into CSV/TSV/JSON file.
     - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) -VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux.
-- [Advanced Archive Password Recovery](https://www.elcomsoft.com/archpr.html) -Break into password-protected ZIP and RAR archives! Thorough low-level optimization help finish the job faster. Guaranteed recovery for certain types of archives within one hour.
+    - [Advanced Archive Password Recovery](https://www.elcomsoft.com/archpr.html) -Break into password-protected ZIP and RAR archives! Thorough low-level optimization help finish the job faster. Guaranteed recovery for certain types of archives within one hour.
+    - [digiKam](https://digikam.org/) -Professional Photo Management with the Power of Open Source.
     
 - Mac
   - [Tmux](https://github.com/tmux/tmux)  -是一个可以在终端窗口中运行多个终端会话的工具。
