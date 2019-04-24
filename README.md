@@ -97,6 +97,9 @@
     - [Microsoft Docs](https://docs.microsoft.com/en-us/) -Microsoft Docs  site provides many documentation for end users, developers, and IT professionals. You can check out their quickstarts, tutorials, API reference, and code examples.
     - [Chrome-Devtools](https://developers.google.com/web/tools/chrome-devtools/) -Chrome DevTools is a set of web developer tools built directly into the [Google Chrome](https://www.google.com/chrome/) browser. DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster.
     - [Ecma International](https://www.ecma-international.org/) -Ecma International is an industry association founded in 1961, dedicated to the standardization of information and communication systems.
+- 设计
+    - [Flat UI Colors](https://flatuicolors.com/) -Palettes | Flat UI Colors 🎨  280 handpicked colors ready for COPY & PASTE
+    - [Collect UI](https://collectui.com/) -Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.
 ## 书籍
 - 编程开发
     - [《Producing Open Source Software》-Karl Fogel](https://producingoss.com/) -如何运作一个成功的开源项目，有中文版的，可以在线看或者下载到电子书里看。
