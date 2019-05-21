@@ -23,11 +23,18 @@
 
 - 谷歌浏览器插件
   - **Chrono** -下载管理器 -替代原生的下载器，功能全面。
+  
   - **IE Tab** -在Chrome中使用IE内核浏览网页。
+  
   - **OneTab** -整合当前窗口标签到一个列表里，节省Chrome内存资源。
+  
   - **Image Downloader** -可以下载当前页面的图片，特别适合设计使用。
+  
   - **SimpleUndoRecents** -恢复最近关闭的标签。
+  
   - **BuiltWith Technology Profiler** -一个网站分析工具，它可以找出你访问的站点使用的建站技术。
+  
+  - **Tampermonkey** - Tampermonkey is the most popular userscript manager, with over 10 million users.
 - VS Plugin Or Extension
   - [ReSharper](https://www.jetbrains.com/resharper/) -实时分析代码质量、改善代码风格、代码重构，非常强大。
   - [Son of Obsidian](https://studiostyl.es/schemes/son-of-obsidian) -这是VS主题，我非常喜欢的配色。
