@@ -21,7 +21,7 @@
 
 ## Plugin
 
-- 谷歌浏览器插件
+- Chrome Extensions
   - **Chrono** -下载管理器 -替代原生的下载器，功能全面。
   
   - **IE Tab** -在Chrome中使用IE内核浏览网页。
@@ -35,7 +35,7 @@
   - **BuiltWith Technology Profiler** -一个网站分析工具，它可以找出你访问的站点使用的建站技术。
   
   - **Tampermonkey** - Tampermonkey is the most popular userscript manager, with over 10 million users.
-- VS Plugin Or Extension
+- VS Plugins Or Extensions
   - [ReSharper](https://www.jetbrains.com/resharper/) -实时分析代码质量、改善代码风格、代码重构，非常强大。
   - [Son of Obsidian](https://studiostyl.es/schemes/son-of-obsidian) -这是VS主题，我非常喜欢的配色。
   - [FileIcons](https://github.com/madskristensen/FileIcons) -This extensions adds file icons to Solution Explorer for files that Visual Studio doesn't provide icons for.
