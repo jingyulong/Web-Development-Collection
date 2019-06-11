@@ -59,14 +59,20 @@
     - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) -VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux.
     - [Advanced Archive Password Recovery](https://www.elcomsoft.com/archpr.html) -Break into password-protected ZIP and RAR archives! Thorough low-level optimization help finish the job faster. Guaranteed recovery for certain types of archives within one hour.
     - [digiKam](https://digikam.org/) -Professional Photo Management with the Power of Open Source.
-    
+
 - Mac
   - [Tmux](https://github.com/tmux/tmux)  -是一个可以在终端窗口中运行多个终端会话的工具。
+
   - [The Unarchiver](https://theunarchiver.com/) -The Unarchiver is a small and easy to use program that can unarchive many different kinds of archive files.
+
   - [CheatSheet](https://www.mediaatelier.com/CheatSheet/) -Know your short cuts.Just hold the ⌘-Key a bit longer to get a list of all active short cuts of the current application. It's as simple as that.
+
   - [MacVim](https://github.com/macvim-dev/macvim) -The text editor-vim GUI version,for Mac OS X.
 
+  - [Alfred](https://www.alfredapp.com/) -Alfred is an award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac.
+
 - Cross-Platform
+
   - [Imagine](https://github.com/meowtec/Imagine) -Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.
 
 
